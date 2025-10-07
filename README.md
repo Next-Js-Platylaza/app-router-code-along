@@ -1,1 +1,1 @@
-# app-router-code-along
+# MERN-nextjs-app-router-code-along
