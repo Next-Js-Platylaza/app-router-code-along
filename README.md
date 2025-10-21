@@ -9,3 +9,6 @@ https://vercel.com/platylazas-projects/app-router-code-along-k8wd
 https://nextjs.org/learn/dashboard-app
 
 npm install -g pnpm
+
+user@nextmail.com
+123456
